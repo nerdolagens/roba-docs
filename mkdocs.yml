@@ -1,4 +1,5 @@
-site_name:ROBA docs
+site_name: ROBA docs
+site_url: https://nerdolagens.github.io/roba-docs/
 theme:
   name: material
   features:
