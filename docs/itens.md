@@ -1,8 +1,8 @@
-# Lista de armas
+## Armas
 
-## armas corpo a corpo
+### armas corpo a corpo
 
-### de uma mao
+#### de uma mao
 
 - espada media
 
@@ -24,7 +24,7 @@
   dano: 1d8
   especial: recebe +1 na margem de critico
 
-### de duas maos
+#### de duas maos
 
 - espada pesada
 
@@ -41,16 +41,16 @@
   dano: 1d12
   especial: ignora 5RD do inimigo
 
-## armas de alcance
+### armas de alcance
 
-### de uma mao
+#### de uma mao
 
 - pistola
 
   dano: 1d10
   alcance: 9m
 
-### de duas maos
+#### de duas maos
 
 - fuzil
 
@@ -68,9 +68,9 @@
   alcance: 36m
   penalidade: e necessario gastar 1PA para preparar outro disparo
 
-## outros
+### outros
 
-### escudos
+#### escudos
 
 - escudo medio
 
@@ -81,7 +81,7 @@
   bonus: +5 de CA e RD
   penalidade: recebe -3m de deslocamento
 
-### instrumentos musicais
+#### instrumentos musicais
 
 - guitarra
 
@@ -91,7 +91,7 @@
 
   bonus: vove e todos os seus aliados recebem um bonus de CA igual seu modificador de carisma
 
-### catalizadores
+#### catalizadores
 
 - grimorio
 
@@ -104,3 +104,18 @@
 - varinha
 
   suas magias causam +10 dano
+
+
+## Consumiveis
+
+- pocao de cura
+
+  recupera metade dos PV maximo
+
+- granada
+
+  pode gastar 1PA para arremessar uma granada em um causa uma explosao de 6m raio causando 4d6 dano
+
+- molotov
+
+  pode gastar 1PA para arremessar uma molotov em uma jungle que esteja 9m de voce, voce incinera a jungle inteira causando 50 pontos de dano a qualquer um que estiver la dentro durante 3 rodadas, qualquer personagem que entre nessa jungle ou permaneca la sofre esse dano

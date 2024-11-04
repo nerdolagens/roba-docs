@@ -8,7 +8,6 @@ theme:
     - navigation.instant.progress
     - navigation.tracking
     - navigation.footer
-    - navigation.tabs
     - navigation.tabs.sticky
     - content.code.copy
   palette:
