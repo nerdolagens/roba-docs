@@ -1,1 +1,1 @@
-link do site: ttps://nerdolagens.github.io/roba-docs/
+link do site: https://nerdolagens.github.io/roba-docs/
