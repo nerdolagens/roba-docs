@@ -4,11 +4,11 @@ equipamentos: armas de alcance de uma e duas maos
 
 ## evolucao
 
-.nivel 1 - olhos de aguia, impacto balistico
-.nivel 2 - na mosca
-.nivel 3 - multiclasse
-.nivel 4 - calibre grosso
-.nivel 5 - rajada
+- nivel 1 - olhos de aguia, impacto balistico
+- nivel 2 - na mosca
+- nivel 3 - multiclasse
+- nivel 4 - calibre grosso
+- nivel 5 - rajada
 
 vida inicial: 24 + 4 x CON
 ganho de vida por nivel: 12 + CON

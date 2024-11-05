@@ -5,20 +5,21 @@ equipamentos: catalizadores e escudos
 ## evolucao
 
 .nivel 1 - milagre, cura
-.nivel 2 - exorcista
+.nivel 2 - anjo da guarda
 .nivel 3 - multiclasse
 .nivel 4 - bencao em grupo
 .nivel 5 - segunda chance
 
-vida inicial: 32 + 4 x CON
+vida inicial: 24 + 4 x CON
 ganho de vida por nivel: 16 + CON
 ganho especial: nos niveis 1, 3 e 5 a cura das suas magias aumenta em +1d
 
 ## habilidades
 
-- exorcista
+- anjo da guarda
 
-  alvos afetados por suas magias recebem +1d20 em testes realizados contra mortos vivos por uma quantidade de rodadas igual seu mod CAR
+  gaste 1PA para se tornar um espirito com uma aura dourada incorporeo que ira acompanhar um aliado adjascente a voce, enquanto nessa forma voce nao pode mais realizar acoes apenas podendo uma vez por rodada usar suas magias de cura ou milagre no aliado que voce escolheu ser o anjo da guarda, por outro lado voce recebe imunidade a dano e acompanha todos os movimentos dele, entretanto se ele for morto voce morre junto ja que falhou em sua missao divina
+
 
 - bencao em grupo
 

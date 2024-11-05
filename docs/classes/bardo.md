@@ -4,11 +4,11 @@ equipamentos: intrumentos musicais
 
 ## evolucao
 
-.nivel 1 - inspiracao, covarde
-.nivel 2 - som no maximo
-.nivel 3 - multiclasse
-.nivel 4 - inspiracao eletrizante
-.nivel 5 - astro do combate
+- nivel 1 - inspiracao, covarde
+- nivel 2 - som no maximo
+- nivel 3 - multiclasse
+- nivel 4 - inspiracao eletrizante
+- nivel 5 - astro do combate
 
 vida inicial: 32 + 4 x CON
 ganho de vida por nivel: 16 + CON

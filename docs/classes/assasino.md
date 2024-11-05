@@ -4,11 +4,11 @@ equipamentos: corpo a corpo de uma mao, alcance de uma mao
 
 ## evolucao
 
-.nivel 1 - desbravador e furtividade
-.nivel 2 - ataque furtivo
-.nivel 3 - multiclasse
-.nivel 4 - filho das sombras
-.nivel 5 - critico letal
+- nivel 1 - desbravador e furtividade
+- nivel 2 - ataque furtivo
+- nivel 3 - multiclasse
+- nivel 4 - filho das sombras
+- nivel 5 - critico letal
 
 vida inicial: 32 + 4 x CON
 ganho de vida por nivel: 16 + CON

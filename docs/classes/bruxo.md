@@ -10,8 +10,8 @@ equipamento: catalizadores e escudos
 .nivel 4 - golpe de sorte
 .nivel 5 - praga
 
-vida inicial: 32 + 4 x CON
-ganho de vida por nivel: 16 + CON
+vida inicial: 24 + 4 x CON
+ganho de vida por nivel: 12 + CON
 ganho especial: soma seu nivel na duracao de suas magias (exceto a praga) em rodadas
 
 ## habilidades
