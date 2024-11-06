@@ -4,15 +4,15 @@ equipamentos: catalizadores e escudos
 
 ## evolucao
 
-.nivel 1 - milagre, cura
-.nivel 2 - anjo da guarda
-.nivel 3 - multiclasse
-.nivel 4 - bencao em grupo
-.nivel 5 - segunda chance
+- nivel 1 - milagre, cura
+- nivel 2 - anjo da guarda
+- nivel 3 - multiclasse
+- nivel 4 - bencao em grupo
+- nivel 5 - segunda chance
 
-vida inicial: 24 + 4 x CON
-ganho de vida por nivel: 16 + CON
-ganho especial: nos niveis 1, 3 e 5 a cura das suas magias aumenta em +1d
+    vida inicial: 24 + 4 x CON
+    ganho de vida por nivel: 16 + CON
+    ganho especial: nos niveis 1, 3 e 5 a cura das suas magias aumenta em +1d
 
 ## habilidades
 

@@ -155,3 +155,41 @@ qualquer classe pode usar consumiveis mas apos usar um ele desaparece do seu inv
 - mina explosiva
 
   pode gastar 1PA para plantar uma mina em um local adjascente a voce, ela so ira explodir caso um inimigo passe por pelo menos 3m perto dela causando uma explosao de 6m raio fazendo todos dentro desse raio sofrerem 10d6 dano
+
+## Itens magicos
+
+os itens magicos sao os unicos itens do sistema que voce obtem apenas no decorrer da partida podendo trazer grandes mudancas pro funcionamento de sua classe, voce tem um limite de 3 itens magicos e voce ganha um item magico a sua escolha ao abrir um bau magico, nao e possivel ter dois do mesmo item magico
+
+cada classe tem um ou dois itens magicos especificos para suas habilidades, esses itens so podem ser usados caso voce tenha a habilidade que eles afetam
+
+- coracao vital
+
+  um coracao que amplifica sua vitalidade, seus PV maximo aumentam em um valor igual a 10 x nivel, sempre que subir de nivel tendo esse iten no inventario seus PV maximo aumentam em +10
+
+- botas de velocidade
+
+  seu deslocamento aumenta em +6m
+
+- botas de salto
+
+  gastando 1PA voce se teletransporta a uma distancia igual seu deslocamento terrestre (nao pode ir pra cima)
+
+- dedo do demonio
+
+  um dedo preso a uma corda que faz voce destruir tudo em seu caminho, suas armas causam +1d dano
+
+- armadura de prata
+
+  sua CA e RD aumenta em +5
+
+- amarra mortal
+
+  correntes negras se enrolam em seus bracos, pode gastar 1PA para puxar um ser em ate 12m distancia, caso tenha uma mao livre e uma arma de uma mao voce pode empunhar a corrente e prender sua ponta no cabo de sua arma podendo realizar ataques com ela em inimigos de ate 12m distancia
+
+- cranio espiral
+
+  um cranio retorcido que aumenta sua velocidade, enquanto tiver o item voce recebe +1PA por turno porem a morte desenvolve um interesse por voce fazendo com que sempre tenha que espera uma rodada adicional para respawnar
+
+- grimorio autodidata
+
+  um livro de couro com conhecimentos antigos sobre a magia, se tiver uma mao livre para empunhar o livro
