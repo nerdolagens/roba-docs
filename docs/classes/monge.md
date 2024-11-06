@@ -10,9 +10,9 @@ equipamentos: catalizadores e escudos
 - nivel 4 - bencao em grupo
 - nivel 5 - segunda chance
 
-    vida inicial: 24 + 4 x CON
-    ganho de vida por nivel: 16 + CON
-    ganho especial: nos niveis 1, 3 e 5 a cura das suas magias aumenta em +1d
+      vida inicial: 24 + 4 x CON
+      ganho de vida por nivel: 16 + CON
+      ganho especial: nos niveis 1, 3 e 5 a cura das suas magias aumenta em +1d
 
 ## habilidades
 
@@ -23,7 +23,7 @@ equipamentos: catalizadores e escudos
 
 - bencao em grupo
 
-  voce pode usar seu milagre e sua cura em uma quantidade de aliados igual seu mod CAR
+  voce pode usar seu milagre e sua cura em uma quantidade de aliados igual seu mod SAB
 
 ## magias
 
@@ -40,11 +40,11 @@ equipamentos: catalizadores e escudos
 
         custo: 1PA
         duracao: instantanea
-        cura: 2d6+INT
+        cura: 3d8 + SAB
         alcance: 9m
         alvo: 1 ser
 
-  com as forcas divinas ao seu lado voce cura um aliado 3d8 + CAR
+  com as forcas divinas ao seu lado voce cura um aliado 3d8 + SAB
 
 - segunda chance
 
