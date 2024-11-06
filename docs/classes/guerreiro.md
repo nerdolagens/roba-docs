@@ -4,11 +4,11 @@ equipamento: armas corpo a corpo, escudos
 
 ## evolucao
 
-.nivel 1 - tecnica letal, empolgacao
-.nivel 2 - ataque rotativo
-.nivel 3 - multiclasse
-.nivel 4 - empolgacao maxima
-.nivel 5 - berserker
+- nivel 1 - tecnica letal, empolgacao
+- nivel 2 - ataque rotativo
+- nivel 3 - multiclasse
+- nivel 4 - empolgacao maxima
+- ssnivel 5 - berserker
 
 vida inicial: 40 + 4 x CON
 ganho de vida por nivel: 20 + CON
